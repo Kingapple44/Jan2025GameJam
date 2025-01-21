@@ -19,6 +19,7 @@ public class character : MonoBehaviour
         float verticalInput = Input.GetAxis("Vertical");
 
         Vector3 movement = cam.transform.forward * verticalInput + cam.transform.right * horizontalInput;
+        movement.y = 0;
         characterController.Move(movement * Time.deltaTime * Speed);
     }
 }
