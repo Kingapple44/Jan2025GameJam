@@ -1,12 +1,11 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
-
 
 
 public class character : MonoBehaviour
 {
     private CharacterController characterController;
     public Transform cam;
+    private Vector3 movement;
     public float Speed = 5f;
     void Start()
     {
@@ -16,8 +15,10 @@ public class character : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 move = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
 
-        characterController.Move(move * Time.deltaTime * Speed);
+        Vector3 movement = cam.transform.forward * verticalInput + cam.transform.right * horizontalInput;
+        characterController.Move(movement * Time.deltaTime * Speed);
     }
 }
