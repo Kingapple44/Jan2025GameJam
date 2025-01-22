@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3600991384383779078}
   m_Layer: 0
   m_Name: Enemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 7428522996885059130}
   - component: {fileID: 6626007626008552327}
   - component: {fileID: 2044243553401904150}
-  - component: {fileID: 2004373703839350312}
+  - component: {fileID: 1466020037582323456}
   m_Layer: 0
   m_Name: EnemyModel
   m_TagString: Enemy
@@ -156,7 +156,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1baac0fe0ea2f3246b943ee1a574ca96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!135 &2004373703839350312
+  Virus: 0
+  Health: 100
+--- !u!135 &1466020037582323456
 SphereCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -171,7 +173,7 @@ SphereCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3

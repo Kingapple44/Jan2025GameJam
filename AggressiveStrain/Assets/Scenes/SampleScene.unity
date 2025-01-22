@@ -514,6 +514,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: VirusPlayer
       objectReference: {fileID: 0}
+    - target: {fileID: 6303651057186194683, guid: a80ad59f0d1924543844cfcfae7ac130, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 7356393577914760821, guid: a80ad59f0d1924543844cfcfae7ac130, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -529,6 +537,10 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 55537676169229730, guid: 6377106c92cf8024eb6bf2f1e86ebd05, type: 3}
       propertyPath: m_Name
+      value: Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 55537676169229730, guid: 6377106c92cf8024eb6bf2f1e86ebd05, type: 3}
+      propertyPath: m_TagString
       value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 3600991384383779078, guid: 6377106c92cf8024eb6bf2f1e86ebd05, type: 3}
