@@ -4,6 +4,7 @@ public class Enemy : MonoBehaviour
 {
     public int Virus;
     public int Health;
+    private float alpha;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

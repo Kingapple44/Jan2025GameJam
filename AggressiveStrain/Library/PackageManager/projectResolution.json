@@ -8,6 +8,14 @@
     "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Packages\\packages-lock.json"
   ],
   "outputs": {
+    "com.unity.ai.navigation@2.0.5": {
+      "name": "com.unity.ai.navigation",
+      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.ai.navigation",
+      "fingerprint": "9f76b145f0a8dd734ff2a4877f7f7edb83b7f62c",
+      "editorCompatibility": "2023.2.0a18",
+      "version": "2.0.5",
+      "source": "registry"
+    },
     "com.unity.cinemachine@3.1.2": {
       "name": "com.unity.cinemachine",
       "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.cinemachine",

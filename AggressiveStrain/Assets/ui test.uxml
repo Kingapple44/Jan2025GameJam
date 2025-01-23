@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/test.uss?fileID=7433441132597879392&amp;guid=78270c4ad9da4b24eb4b939e7981f9cd&amp;type=3#test" />
+    <ui:VisualElement style="flex-grow: 1;">
+        <ui:ProgressBar value="100" title="my-progress" style="-unity-text-outline-color: rgba(255, 255, 255, 0); -unity-background-image-tint-color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);" />
+    </ui:VisualElement>
+</ui:UXML>
