@@ -46,6 +46,7 @@ GameObject:
   - component: {fileID: 6626007626008552327}
   - component: {fileID: 2044243553401904150}
   - component: {fileID: 1466020037582323456}
+  - component: {fileID: 1677570352342990284}
   m_Layer: 0
   m_Name: EnemyModel
   m_TagString: Enemy
@@ -100,6 +101,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: deafdc53271b21748b7fc4eeb78a3ee4, type: 2}
+  - {fileID: 2100000, guid: 983e7c8d0ba75b341b9e5d98305a476b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -158,6 +160,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Virus: 0
   Health: 100
+  material: {fileID: 2100000, guid: 983e7c8d0ba75b341b9e5d98305a476b, type: 2}
 --- !u!135 &1466020037582323456
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -179,3 +182,25 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 1
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!195 &1677570352342990284
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8681920273330276022}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 1
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
