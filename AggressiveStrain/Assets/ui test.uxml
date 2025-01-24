@@ -1,6 +1,6 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
     <Style src="project://database/Assets/Scripts/test.uss?fileID=7433441132597879392&amp;guid=78270c4ad9da4b24eb4b939e7981f9cd&amp;type=3#test" />
-    <ui:VisualElement style="flex-grow: 1;">
-        <ui:ProgressBar value="100" title="my-progress" style="-unity-text-outline-color: rgba(255, 255, 255, 0); -unity-background-image-tint-color: rgb(255, 255, 255); background-color: rgba(0, 0, 0, 0);" />
+    <ui:VisualElement style="flex-grow: 1; -unity-background-image-tint-color: rgb(255, 0, 0); width: 312px; opacity: 1; color: rgb(176, 29, 29); background-color: rgba(63, 49, 49, 0); border-left-color: rgba(255, 0, 0, 0); border-right-color: rgba(255, 0, 0, 0); border-top-color: rgba(255, 0, 0, 0); border-bottom-color: rgba(255, 0, 0, 0); text-overflow: clip; -unity-font-style: bold; display: flex; -unity-text-align: upper-left; height: 196px;">
+        <ui:ProgressBar value="100" title="Health" name="ProgressBar" style="-unity-text-outline-color: rgba(103, 0, 0, 0); -unity-background-image-tint-color: rgb(164, 0, 0); background-color: rgba(0, 0, 0, 0); align-self: flex-start; justify-content: flex-end; align-content: flex-end; align-items: stretch; position: absolute; top: auto; left: 20px; right: auto; bottom: 20px; width: 200px; color: rgb(106, 0, 0); white-space: normal; height: auto;" />
     </ui:VisualElement>
 </ui:UXML>

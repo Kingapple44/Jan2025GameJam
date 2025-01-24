@@ -1,0 +1,6 @@
+.unity-progress-bar {
+    -unity-background-image-tint-color: rgb(207, 0, 0);
+    color: rgb(19, 3, 3);
+    text-shadow: 0 0 0 rgba(236, 0, 0, 0);
+    background-color: rgba(255, 4, 4, 0);
+}

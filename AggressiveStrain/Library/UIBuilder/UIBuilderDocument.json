@@ -13,26 +13,37 @@
         "m_CodePreviewVisible": true,
         "m_OpenUXMLFiles": [
             {
-                "m_OpenUSSFiles": [],
-                "m_OpenendVisualTreeAssetOldPath": "",
+                "m_OpenUSSFiles": [
+                    {
+                        "m_StyleSheet": {
+                            "fileID": 7433441132597879392,
+                            "guid": "78270c4ad9da4b24eb4b939e7981f9cd",
+                            "type": 3
+                        },
+                        "m_OldPath": "Assets/Scripts/test.uss"
+                    }
+                ],
+                "m_OpenendVisualTreeAssetOldPath": "Assets/ui test.uxml",
                 "m_VisualTreeAssetRef": {
-                    "instanceID": 0
+                    "fileID": 9197481963319205126,
+                    "guid": "17ebeca07c131ec4694296ac3eb33e8f",
+                    "type": 3
                 },
                 "m_ActiveStyleSheet": {
                     "instanceID": 0
                 },
                 "m_Settings": {
-                    "UxmlGuid": "",
-                    "UxmlPath": "",
+                    "UxmlGuid": "17ebeca07c131ec4694296ac3eb33e8f",
+                    "UxmlPath": "Assets/ui test.uxml",
                     "CanvasX": 0,
                     "CanvasY": 0,
-                    "CanvasWidth": 350,
-                    "CanvasHeight": 450,
+                    "CanvasWidth": 194,
+                    "CanvasHeight": 32,
                     "MatchGameView": false,
-                    "ZoomScale": 1.0,
+                    "ZoomScale": 1.0499999523162842,
                     "PanOffset": {
-                        "x": 20.0,
-                        "y": 20.0
+                        "x": 236.0882568359375,
+                        "y": 404.6842041015625
                     },
                     "ColorModeBackgroundOpacity": 1.0,
                     "ImageModeCanvasBackgroundOpacity": 1.0,
