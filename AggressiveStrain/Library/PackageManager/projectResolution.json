@@ -1,16 +1,16 @@
 {
   "context": {
-    "projectPath": "A:/Fork/Jan2025GameJam/AggressiveStrain/Packages",
+    "projectPath": "E:/Storage MainPC/HospitalMadnessRepo/Jan2025GameJam/AggressiveStrain/Packages",
     "unityVersion": "6000.0.34f1"
   },
   "inputs": [
-    "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Packages\\manifest.json",
-    "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Packages\\packages-lock.json"
+    "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Packages\\manifest.json",
+    "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Packages\\packages-lock.json"
   ],
   "outputs": {
     "com.unity.ai.navigation@2.0.5": {
       "name": "com.unity.ai.navigation",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.ai.navigation",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.ai.navigation",
       "fingerprint": "9f76b145f0a8dd734ff2a4877f7f7edb83b7f62c",
       "editorCompatibility": "2023.2.0a18",
       "version": "2.0.5",
@@ -26,7 +26,7 @@
     },
     "com.unity.cinemachine@3.1.2": {
       "name": "com.unity.cinemachine",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.cinemachine",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.cinemachine",
       "fingerprint": "b2e7bffab7726d3b59b19bdf5d6f8e78f70b6c3b",
       "editorCompatibility": "2022.3.0a1",
       "version": "3.1.2",
@@ -34,7 +34,7 @@
     },
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.multiplayer.center",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.multiplayer.center",
       "fingerprint": "f502d8ac613fa076192423e73892fbd89eb4049b",
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
@@ -42,211 +42,211 @@
     },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.accessibility",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.ai",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.ai",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.androidjni@1.0.0": {
       "name": "com.unity.modules.androidjni",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.androidjni",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.animation@1.0.0": {
       "name": "com.unity.modules.animation",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.animation",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.animation",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.assetbundle@1.0.0": {
       "name": "com.unity.modules.assetbundle",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.assetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.audio@1.0.0": {
       "name": "com.unity.modules.audio",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.audio",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.audio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.cloth@1.0.0": {
       "name": "com.unity.modules.cloth",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.cloth",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.cloth",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.director@1.0.0": {
       "name": "com.unity.modules.director",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.director",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.director",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imageconversion@1.0.0": {
       "name": "com.unity.modules.imageconversion",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.imageconversion",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.imgui@1.0.0": {
       "name": "com.unity.modules.imgui",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.imgui",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.imgui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.jsonserialize",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.particlesystem@1.0.0": {
       "name": "com.unity.modules.particlesystem",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.particlesystem",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics@1.0.0": {
       "name": "com.unity.modules.physics",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.physics",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.physics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.physics2d@1.0.0": {
       "name": "com.unity.modules.physics2d",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.physics2d",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.screencapture@1.0.0": {
       "name": "com.unity.modules.screencapture",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.screencapture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrain@1.0.0": {
       "name": "com.unity.modules.terrain",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.terrain",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.terrain",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.terrainphysics@1.0.0": {
       "name": "com.unity.modules.terrainphysics",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.terrainphysics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.tilemap@1.0.0": {
       "name": "com.unity.modules.tilemap",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.tilemap",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.ui@1.0.0": {
       "name": "com.unity.modules.ui",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.ui",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.ui",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.uielements@1.0.0": {
       "name": "com.unity.modules.uielements",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.uielements",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.uielements",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.umbra@1.0.0": {
       "name": "com.unity.modules.umbra",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.umbra",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.umbra",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unityanalytics@1.0.0": {
       "name": "com.unity.modules.unityanalytics",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unityanalytics",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequest@1.0.0": {
       "name": "com.unity.modules.unitywebrequest",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
       "name": "com.unity.modules.unitywebrequestassetbundle",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestaudio@1.0.0": {
       "name": "com.unity.modules.unitywebrequestaudio",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequesttexture@1.0.0": {
       "name": "com.unity.modules.unitywebrequesttexture",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.unitywebrequestwww@1.0.0": {
       "name": "com.unity.modules.unitywebrequestwww",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vehicles@1.0.0": {
       "name": "com.unity.modules.vehicles",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.vehicles",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.video@1.0.0": {
       "name": "com.unity.modules.video",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.video",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.video",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.vr@1.0.0": {
       "name": "com.unity.modules.vr",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.vr",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.vr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.wind@1.0.0": {
       "name": "com.unity.modules.wind",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.wind",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.wind",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.xr@1.0.0": {
       "name": "com.unity.modules.xr",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.xr",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.xr",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.subsystems@1.0.0": {
       "name": "com.unity.modules.subsystems",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.subsystems",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.modules.hierarchycore@1.0.0": {
       "name": "com.unity.modules.hierarchycore",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.modules.hierarchycore",
       "version": "1.0.0",
       "source": "builtin"
     },
     "com.unity.splines@2.7.2": {
       "name": "com.unity.splines",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.splines",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.splines",
       "fingerprint": "d3e1e500c9a0fa3a1e812117108982dd612c2e27",
       "editorCompatibility": "2022.3.0a1",
       "version": "2.7.2",
@@ -286,7 +286,7 @@
     },
     "com.unity.mathematics@1.3.2": {
       "name": "com.unity.mathematics",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.mathematics",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.mathematics",
       "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
       "editorCompatibility": "2021.3.0a1",
       "version": "1.3.2",
@@ -294,7 +294,7 @@
     },
     "com.unity.settings-manager@2.0.1": {
       "name": "com.unity.settings-manager",
-      "resolvedPath": "A:\\Fork\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.settings-manager",
+      "resolvedPath": "E:\\Storage MainPC\\HospitalMadnessRepo\\Jan2025GameJam\\AggressiveStrain\\Library\\PackageCache\\com.unity.settings-manager",
       "fingerprint": "56a930affa1e4462d3595b5c19a1c2a4bf2015d2",
       "editorCompatibility": "2018.4.0a1",
       "version": "2.0.1",
